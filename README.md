@@ -4,9 +4,12 @@
 
 Hello! ^_^ My name is Nick Kelley. I am from Metropolitan State University taking BS Computer Science. 
 
+This is my EDU connected account for Metro State!
+
 I have a huge interest in Coding! currently studing all sorts of things.
 
 I have lots of skills. 
+
 <!--
 **nkelley-metro/nkelley-metro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
